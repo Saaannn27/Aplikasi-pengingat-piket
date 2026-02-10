@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nama": "Andi Wijaya",
+    "hari": "Senin",
+    "jam": "08:00",
+    "bagian": "Pidum"
+  },
+  {
+    "id": 2,
+    "nama": "Budi Santoso",
+    "hari": "Selasa", 
+    "jam": "08:00",
+    "bagian": "Intel"
+  }
+]
